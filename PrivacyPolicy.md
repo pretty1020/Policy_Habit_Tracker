@@ -2,7 +2,8 @@
 
 **My Habit Tracker**  
 **Last updated:** March 2025  
-**Effective date:** March 2025
+**Effective date:** March 2025  
+**App name:** My Habit Tracker (Habit Tracker)
 
 ---
 
@@ -21,8 +22,10 @@ My Habit Tracker ("we," "our," or "the App") is committed to protecting your pri
 | Email address | Account creation, authentication, cloud sync | When using cloud sync |
 | Password | Account security | When using cloud sync |
 | Habit names | Core app functionality | Yes |
+| Habit type and goals | Quantity goals (e.g. glasses), duration tracking | Optional |
 | Habit completion data | Tracking progress, streaks | Yes |
-| Time spent on habits | Analytics, personal insights | Optional |
+| Time spent on habits | Duration logging, personal insights | Optional |
+| Daily highlights/activities | Notes you add (e.g. "Went to the gym") | Optional |
 
 ### 2.2 Information Collected Automatically
 
@@ -34,7 +37,7 @@ My Habit Tracker ("we," "our," or "the App") is committed to protecting your pri
 
 ### 2.3 Data Stored Locally (Device-Only Mode)
 
-When you use the App without signing in, all data (habits, completions, streaks) is stored only on your device. No data is transmitted to our servers in this mode.
+When you use the App without signing in, all data (habits, completions, streaks, daily highlights) is stored only on your device. No data is transmitted to our servers in this mode.
 
 ---
 
@@ -42,7 +45,7 @@ When you use the App without signing in, all data (habits, completions, streaks)
 
 We use your information to:
 
-- **Provide the service:** Track habits, streaks, and completions
+- **Provide the service:** Track habits, streaks, completions, daily highlights, and time spent
 - **Sync data:** When you sign in, sync your habits across devices
 - **Send reminders:** Push notifications (only with your permission)
 - **Process purchases:** In-app subscriptions via RevenueCat
@@ -101,9 +104,8 @@ You have the right to:
 
 If you have an account, you may delete it and all associated data:
 
-1. Open the App and go to the Stats or Settings section
-2. Use the Logout option and contact us (see Section 10) to request full account deletion, **or**
-3. Contact us directly to request account deletion
+1. Open the App, tap **Logout** (top right on the My Habits screen), then contact us (see Section 10) to request full account deletion, **or**
+2. Contact us directly to request account deletion
 
 We will process deletion requests within 30 days.
 
